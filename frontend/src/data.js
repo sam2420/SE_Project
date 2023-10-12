@@ -6,10 +6,10 @@ const data = {
       category: 'Shirts',
       image: '/images/p1.jpg', // 679px × 829px
       price: 120,
-      countInStock: 10,
+      countInStock: 0,
       brand: 'Nike',
       rating: 4.5,
-      numReviews: 10,
+      numReviews: 0,
       description: 'high quality shirt',
     },
     {
@@ -21,7 +21,7 @@ const data = {
       countInStock: 20,
       brand: 'Adidas',
       rating: 4.0,
-      numReviews: 10,
+      numReviews: 0,
       description: 'high quality product',
     },
     {
@@ -33,7 +33,7 @@ const data = {
       countInStock: 15,
       brand: 'Nike',
       rating: 4.5,
-      numReviews: 14,
+      numReviews: 0,
       description: 'high quality product',
     },
     {
@@ -45,7 +45,7 @@ const data = {
       countInStock: 5,
       brand: 'Puma',
       rating: 4.5,
-      numReviews: 10,
+      numReviews: 0,
       description: 'high quality product',
     },
   ],
